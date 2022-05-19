@@ -86,5 +86,22 @@ Menambahkan variable pada program.
 
 ![image](https://user-images.githubusercontent.com/101801920/169329468-298d71ae-6b40-47a3-adb4-32b8736f1b8d.png)
 
+<b>Operator</b>
+
+![image](https://user-images.githubusercontent.com/101801920/169331847-09cb4a65-e09c-48f5-b9e9-8b9d800101e9.png)
+
+<b>Kondisi IF</b>
+
+![image](https://user-images.githubusercontent.com/101801920/169332460-f35d393b-c88e-48c8-ac5c-10e98e5c8dbe.png)
+
+<b>Kondisi Switch</b>
+
+![image](https://user-images.githubusercontent.com/101801920/169333491-076d4f0b-6645-4ea8-84bf-5d7d7f339eb5.png)
+
+<b>Perulangan for</b>
+
+
+
+
 
 
