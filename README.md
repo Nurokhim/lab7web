@@ -56,10 +56,25 @@ http://localhost/lab7_php_dasar/
 
 ![image](https://user-images.githubusercontent.com/101801920/169320324-b5370c56-755e-4e7f-be48-6a99d07e4149.png)
 
+<b>PHP Dasar</b>
 
+Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat
+kode seperti berikut.
 
+![image](https://user-images.githubusercontent.com/101801920/169321236-e526ef07-0966-430b-b8aa-73b8e863d2c9.png)
 
+Kemudian untuk mengakses hasilnya melalui URL:
+http://localhost/lab7_php_dasar/php_dasar.php
 
+![image](https://user-images.githubusercontent.com/101801920/169321964-9b02c41a-204c-4533-a847-715ee389b10a.png)
+
+<b>Variable PHP</b>
+
+Menambahkan variable pada program.
+
+![image](https://user-images.githubusercontent.com/101801920/169323999-5d0932fe-2274-4f18-827b-ff78be9f1f9f.png)
+
+![Screenshot (88)](https://user-images.githubusercontent.com/101801920/169324307-becb1d78-120b-4b99-8618-e6705f9de30a.png)
 
 
 
