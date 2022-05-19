@@ -45,5 +45,21 @@ Tampil halaman utama XAMPP jika server sudah berkerja dengan baik
 
 ![image](https://user-images.githubusercontent.com/101801920/169318945-2c1fd672-1cc5-4c38-b0a2-5b00ad06bf8c.png)
 
+<b>Memulai PHP</b>
+
+Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
+
+![image](https://user-images.githubusercontent.com/101801920/169319780-a396516a-4a62-4a38-8f9c-6877528aa1fd.png)
+
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: 
+http://localhost/lab7_php_dasar/
+
+![image](https://user-images.githubusercontent.com/101801920/169320324-b5370c56-755e-4e7f-be48-6a99d07e4149.png)
+
+
+
+
+
+
 
 
