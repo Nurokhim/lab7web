@@ -100,8 +100,52 @@ Menambahkan variable pada program.
 
 <b>Perulangan for</b>
 
+![image](https://user-images.githubusercontent.com/101801920/169335675-bdecac13-10a9-42e2-b78f-28edc5b5ff0d.png)
 
+<b>Perulangan while</b>
 
+![image](https://user-images.githubusercontent.com/101801920/169335942-ab429fef-2b22-4fb0-a795-44cefcb76e7f.png)
 
+<b>Perulangan dowhile</b>
 
+![image](https://user-images.githubusercontent.com/101801920/169336431-758928c3-b6a7-4dc7-b4e1-0e03fb5a632f.png)
 
+Langkah selanjutnya simpan dan muat ulang halaman pada web browser.
+
+![image](https://user-images.githubusercontent.com/101801920/169337551-ba780db5-983d-49a5-a271-ba91f18d2cb6.png)
+
+Gambar perulangan for
+
+![image](https://user-images.githubusercontent.com/101801920/169338088-44399a43-d18c-44c1-91ae-5a92d8894e2e.png)
+
+![image](https://user-images.githubusercontent.com/101801920/169338383-8bbec2f7-130c-4f09-b359-141d7736e69c.png)
+
+Pertanyaan dan Tugas
+
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
+
+1.Membuat file php
+
+Gambar 1
+
+![image](https://user-images.githubusercontent.com/101801920/169340589-2a9eea1b-d940-4109-b35f-8afd9cb16806.png)
+
+Gambar 2
+
+![image](https://user-images.githubusercontent.com/101801920/169342025-113ad027-f3cc-4564-ad54-178fb9379ea2.png)
+
+Gambar 3
+
+![image](https://user-images.githubusercontent.com/101801920/169344235-bfcd6f09-5b84-43fe-9c48-e4adf4f36383.png)
+
+Gambar 4
+
+![image](https://user-images.githubusercontent.com/101801920/169342448-95e87f71-900d-4c2a-9dd3-53f8b5f77ca2.png)
+
+Gambar 5
+
+![image](https://user-images.githubusercontent.com/101801920/169342877-a07aa720-1621-4e75-9c28-271f7821b8f7.png)
+
+Simpan dengan nama file tugas.php dan akses dengan link http://localhost/lab7_php_dasar/tugas.php kemudian coba masukan data yang diinginkan.
+
+![image](https://user-images.githubusercontent.com/101801920/169346100-19c59d52-8dcd-438e-9f6c-36e7f6fe4e49.png)
